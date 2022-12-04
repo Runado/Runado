@@ -8,10 +8,10 @@
 - 💪 Iniciando os primeiros passos para se tornar um profissional de Segurança da informação.
 
 
-  <a href="https://github.com/Runado">
+  <a href="https://github.com/camilafernanda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runado&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runado&layout=compact&langs_count=7&theme=dracula"/>     
-    
+</div>
 ### Estou aprendendo    
   
 <div style="display: inline_block"><br>
