@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="40"/> 
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/> 
+  
+  
 </div>
   
  
