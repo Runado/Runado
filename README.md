@@ -6,6 +6,7 @@
 - 📚 Estudante de Cybersecurity - FIAP
 - 💻 Técnologo em Técnologia e Segurança da Informação - Fatec Ourinhos
 - 🌎 Entusiasta de Redes de computadores e Telecom.
+- ☁️ Cloud Computing Guy
 - 💪 Iniciando os primeiros passos para se tornar um profissional de Segurança da informação.
 
 <div>
