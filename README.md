@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## Estou Aprendendo 
+## I'm learning about 
   
 <div style="display: inline_block"><br>
   
@@ -37,7 +37,7 @@
 </div>
   
  
-## Contato:
+## Contact:
   
 <div align="center"> 
  
