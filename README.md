@@ -1,6 +1,6 @@
-# Olá, me chamo José Lucas! 😁
+# Hi, i'm José Lucas! 😁
 
-## Bem vindo ao meu perfil GitHub 👋
+## Welcome to my GitHub Profile👋
 
 
 - 📚 Cyber Security Student - FIAP.
