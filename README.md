@@ -6,8 +6,8 @@
 - 📚 Cyber Security Student - FIAP.
 - 💻 Associates degree on Technology and Information Security (InfoSec) - Fatec Ourinhos.
 - 🌎 Computer Network's and Telecom Enthusiast.
-- ☁️ Learning About Cloud Computing.
-- 🐍 Learning About Python.
+- ☁️ Learning about Cloud Computing.
+- 🐍 Learning about Python.
 - 💪 Taking the first steps to becoming a Cyber Security professional.
 
 <div>
