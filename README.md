@@ -8,7 +8,7 @@
 - 🌎 Computer Network's and Telecom Enthusiast.
 - ☁️ Learning About Cloud Computing.
 - 🐍 Learning About Python.
-- 💪 Taking the first steps to becoming an CyberSecurity professional.
+- 💪 Taking the first steps to becoming an Cyber Security professional.
 
 <div>
   <a href="https://github.com/camilafernanda">
