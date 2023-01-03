@@ -1,13 +1,14 @@
-# Olá, me chamo José Lucas! 
+# Olá, me chamo José Lucas! 😁
 
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 📚 Estudante de Cybersecurity - FIAP
-- 💻 Técnologo em Técnologia e Segurança da Informação - Fatec Ourinhos
-- 🌎 Entusiasta de Redes de computadores e Telecom.
-- ☁️ Cloud Computing Guy
-- 💪 Iniciando os primeiros passos para se tornar um profissional de Segurança da informação.
+- 📚 Cyber Security Student - FIAP.
+- 💻 Associates degree on Technology and Information Security (InfoSec) - Fatec Ourinhos.
+- 🌎 Computer Network's and Telecom Enthusiast.
+- ☁️ Learning About Cloud Computing.
+- 🐍 Learning About Python.
+- 💪 Taking the first steps to becoming an CyberSecurity professional.
 
 <div>
   <a href="https://github.com/camilafernanda">
