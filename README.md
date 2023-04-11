@@ -9,8 +9,9 @@
 - ☁️ Learning about Cloud Computing.
 - 🐍 Learning about Python.
 - 💪 Taking the first steps to becoming a Cyber Security professional.
-
-
+- 🕵️ Learning About Offensive Security / Pentest
+- 🧑‍✈️ Learning About Blue Team 
+- 👮 Learning about Intelligence and Counterintelligence
   
 ## I'm learning about 
   
