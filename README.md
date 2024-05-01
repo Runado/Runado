@@ -1,4 +1,4 @@
-# Hi, i'm José Lucas! 😁
+# Hi, i'm José Lucas! 
 
 ## Welcome to my GitHub Profile👋
 
