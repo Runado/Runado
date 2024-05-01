@@ -27,6 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
+  <img src="https://icongr.am/devicon/vagrant-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+  <img src="https://devicons.railway.app/i/azure.svg" width="40" height="40" />
+  <img src="https://devicons.railway.app/i/googlecloud.svg" width="40" height="40" />
+  <img src="https://devicons.railway.app/i/terraform.svg" width="40" height="40" />
+  
                  
   
 </div>
