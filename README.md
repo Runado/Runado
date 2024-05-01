@@ -8,7 +8,7 @@
 - ⏱ Future Cloud & Network Security Specialist.
 - 🌎 Computer Network's and Telecom Enthusiast.
 - 🕵️ Studying CyberSecurity
-- 🧑‍✈️ Studying Information Security
+- 🕵️ Studying Information Security
 - 👮 Learning about Intelligence and Counterintelligence
   
 ## I'm learning about 
