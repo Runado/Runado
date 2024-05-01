@@ -5,12 +5,10 @@
 
 - 📚 Cyber Security Student - FIAP.
 - 💻 Associates degree on Technology and Information Security (InfoSec) - Fatec Ourinhos.
+- ⏱ Future Cloud & Network Security Specialist.
 - 🌎 Computer Network's and Telecom Enthusiast.
-- ☁️ Learning about Cloud Computing.
-- 🐍 Learning about Python.
-- 💪 Taking the first steps to becoming a Cyber Security professional.
-- 🕵️ Learning About Offensive Security / Pentest
-- 🧑‍✈️ Learning About Blue Team 
+- 🕵️ Studying CyberSecurity
+- 🧑‍✈️ Studying Information Security
 - 👮 Learning about Intelligence and Counterintelligence
   
 ## I'm learning about 
@@ -29,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
-                  
+                 
   
 </div>
   
