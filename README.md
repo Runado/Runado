@@ -1,10 +1,6 @@
 # Hi, i'm José Lucas! 
 
 ## Welcome to my GitHub Profile👋
-<div align="center">
-  <a href="https://github.com/runado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 - 📚 Cyber Security Student - FIAP.
 - 💻 Associates degree on Technology and Information Security (InfoSec) - Fatec Ourinhos.
@@ -50,3 +46,8 @@
   <a href="https://www.linkedin.com/in/zelucasourinhos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div align="center">
+  <a href="https://github.com/runado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
