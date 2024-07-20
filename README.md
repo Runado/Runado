@@ -14,24 +14,29 @@
   
 <div style="display: inline_block"><br>
   
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> 
-  <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
+  <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
-  <img src="https://icongr.am/devicon/vagrant-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
   <img src="https://devicons.railway.app/i/azure.svg" width="40" height="40" />
   <img src="https://devicons.railway.app/i/googlecloud.svg" width="40" height="40" />
-  <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" width="40" height="40" />
-  
-                 
+ 
+
+## Codes 
+
+<div style="display: inline_block"><br>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
+<img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">                  
   
 </div>
   
