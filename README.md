@@ -14,7 +14,7 @@
   
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,prometheus,grafana,linux,kali)](https://skillicons.dev)     
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,kali)](https://skillicons.dev)     
 
 
  
