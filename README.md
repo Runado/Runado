@@ -14,7 +14,7 @@
   
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,bash,docker,git,grafana,kubernetes,linux,&perline=3)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
