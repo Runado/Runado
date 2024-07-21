@@ -14,22 +14,14 @@
   
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,bash,docker,git,grafana,kubernetes,linux,&perline=3)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> 
-  <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
-  <img src="https://devicons.railway.app/i/googlecloud.svg" width="40" height="40" />
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,bash,docker,git,prometheus,grafana,kubernetes,linux,kali&perline=3)](https://skillicons.dev)     
+
+
  
 
-## Codes 
-
+## Programming Languages
 <div style="display: inline_block"><br>
-
-
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,bash,go,c,cpp,rust,mysql&perline=3)](https://skillicons.dev)     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
