@@ -20,16 +20,10 @@
  
 
 ## Programming Languages
-<div style="display: inline_block"><br>
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,bash,go,c,cpp,rust,mysql&perline=3)](https://skillicons.dev)     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
-<img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">                  
-<img height="40" width="40" src="https://devicons.railway.app/i/rust-light.svg">    
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,bash,go,c,cpp,rust,mysql)](https://skillicons.dev)
+     
+</div> 
   
  
 ## Contact:
