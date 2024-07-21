@@ -2,8 +2,8 @@
 
 ## Welcome to my GitHub Profile👋
 
-- 📚 Cyber Security - FIAP.
-- 💻 Technology and Information Security - Fatec Ourinhos.
+- 📚 Cyber Security - FIAP (Faculdade de Informática e administração Paulista).
+- 💻 Technology and Information Security - (Fatec Ourinhos).
 - ⏱ Future Cloud & Network Security Specialist.
 - 🌎 Computer Network's and Telecom Enthusiast.
 - 🕵️ Studying CyberSecurity
