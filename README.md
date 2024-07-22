@@ -14,14 +14,14 @@
   
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,kali)](https://skillicons.dev)     
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,kali,bash)](https://skillicons.dev)     
 
 
  
 
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,bash,go,c,cpp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,go,c,cpp,mysql)](https://skillicons.dev)
      
 </div> 
   
