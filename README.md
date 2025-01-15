@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux,kali,bash)](https://skillicons.dev)     
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,bash)](https://skillicons.dev)     
 
 
  
