@@ -17,7 +17,7 @@
 
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,go,c,cpp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,py,go)](https://skillicons.dev)
      
 </div> 
   
